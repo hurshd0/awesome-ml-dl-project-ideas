@@ -34,8 +34,8 @@ Start with picking one project that you like, define the problem, goals and obje
 - Driver Drowsiness Detection
 - Human Activity Recognition with Video Classification
 - Notes Dictation App (Transcript audio to text)
-- Earthquake predictor
-
+- Earthquake predictor on sensor data 
+- Predictive Maintenance on sensor data
 
 
 
@@ -65,18 +65,23 @@ Start with picking one project that you like, define the problem, goals and obje
 - Opinion Mining on Mobile Phone Features
 
 ### Recommender Projects
-- Movie/Anime/Music recommender
-- Books Recommender
+- Movie/TV Shows/Books/Anime/Music/Video Game/Social Media Friends recommender (Check UCSD data)
 
 ### Datasets
 - [Youtube 8M](https://research.google.com/youtube8m/) 
 - [Yelp Dataset](https://www.yelp.com/dataset/challenge)
 - [Hacker News](https://console.cloud.google.com/marketplace/details/y-combinator/hacker-news)
 - [Github Activity Data](https://github.blog/2016-06-29-making-open-source-data-more-available/)
-- [Amazon Customer Reviews(https://s3.amazonaws.com/amazon-reviews-pds/readme.html)
+- [Amazon Customer Reviews](https://s3.amazonaws.com/amazon-reviews-pds/readme.html)
 - [Deep Fashion](http://mmlab.ie.cuhk.edu.hk/projects/DeepFashion.html)
 - [MVC](https://mvc-datasets.github.io/MVC/)
 - [Stack Overflow](https://www.kaggle.com/stackoverflow/stackoverflow)
+- [UCSD Recommender Systems Data](https://sites.google.com/eng.ucsd.edu/ucsdbookgraph/home)
+
+### API
+- [GoodReads API](https://www.goodreads.com/api)
+- [CoinMarketCap](https://coinmarketcap.com/api/)
+- {Top 20 APIs Blog](https://towardsdatascience.com/top-20-apis-you-should-know-in-ai-and-machine-learning-8e08515198b3)
 
 # Contribute Guide
 
