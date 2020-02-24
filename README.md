@@ -1,4 +1,4 @@
-# Data Science / Machine Learning / Deep Learnign Capstone Project Ideas
+# Data Science / Machine Learning / Deep Learning Capstone Project Ideas
 
 ## Motivation 💪
 ### Why? ❓
