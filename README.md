@@ -89,7 +89,7 @@ Start with picking one project that you like, define the problem, goals and obje
 - [CoinMarketCap](https://coinmarketcap.com/api/)
 - [Top 20 APIs Blog](https://towardsdatascience.com/top-20-apis-you-should-know-in-ai-and-machine-learning-8e08515198b3)
 
-# Contribute Guide
+# Contributing Guide
 
 - Submit a PR by creating branch for fixing grammatical errors or you have new ideas to add.
 - For discussion create issues.
