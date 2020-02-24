@@ -13,6 +13,8 @@ Start with picking one project that you like, define the problem, goals and obje
 
 ### Deep Learning Projeccts
 
+- Traffic Sign Classification - [Read this tutorial](https://www.pyimagesearch.com/2019/11/04/traffic-sign-classification-with-keras-and-deep-learning/)
+- Solve Image Captcha - [Example 1](https://github.com/JackonYang/captcha-tensorflow),[Example 2](https://github.com/danielpontello/cnn-captcha-solving)
 - Automatic Image Tagging API (e.g. [Imagga](https://imagga.com/), or take it further and create App that automatically organize Photos
 - Detecting NSFW Images API
 - Food Image Classification API (See Yelp Dataset)
@@ -20,6 +22,7 @@ Start with picking one project that you like, define the problem, goals and obje
 - Music Generation (Deep Jazz, Folk tunes, etc..)
 - Detect Diabetic Retinopathy
 - Color B/W Images API
+- [Human Gait Prediction](https://www.sciencedirect.com/science/article/pii/S0378437119309963)
 - Gesture Recognition 
 - Attendance Tracking System App
 - Detect Heart Disease App
@@ -43,6 +46,7 @@ Start with picking one project that you like, define the problem, goals and obje
 
 ### ML Projects
 
+- Parkison's Disease Detection
 - Oscar Prediction App
 - Gihub Commit Analysis / Activity 
 - Uber Data Analysis
@@ -77,6 +81,9 @@ Start with picking one project that you like, define the problem, goals and obje
 - [MVC](https://mvc-datasets.github.io/MVC/)
 - [Stack Overflow](https://www.kaggle.com/stackoverflow/stackoverflow)
 - [UCSD Recommender Systems Data](https://sites.google.com/eng.ucsd.edu/ucsdbookgraph/home)
+- [HMDB: a large human motion database](https://serre-lab.clps.brown.edu/resource/hmdb-a-large-human-motion-database/)
+- [UCF Sports Action Videos](https://www.crcv.ucf.edu/data/UCF_Sports_Action.php)
+
 
 ### API
 - [GoodReads API](https://www.goodreads.com/api)
