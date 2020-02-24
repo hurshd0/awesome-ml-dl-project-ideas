@@ -57,6 +57,7 @@ Start with picking one project that you like, define the problem, goals and obje
 
 
 ### NLP Projects
+- Fake News detection - [Read this blog](https://towardsdatascience.com/i-trained-fake-news-detection-ai-with-95-accuracy-and-almost-went-crazy-d10589aa57c)
 - Text Summarizer
 - Nearest Document Search App
 - Sub-reddit predictor
