@@ -1,9 +1,11 @@
-# Motivation 💪
-## Why? ❓
+# Data Science / Machine Learning / Deep Learnign Capstone Project Ideas
+
+## Motivation 💪
+### Why? ❓
 
 Well, for Junior Data Scientists or ML/DL engineers trying to gain foothold in the industry requires to have either previous work experience or solid projects that showcase their skills. So, the goal behind is if you are on self-study route, or going to college or doing bootcamps or want to apply theoretical knowledge from academic papers than Capstone projects are crucial first step.
 
-## How? ❓
+### How? ❓
 
 Start with picking one project that you like, define the problem, goals and objectivies, if you are looking to create web application, than understand your product vision, define clear goals for MVP, and break down requirements for MVP into user stories and release them as bi-weekly Sprints.
 
@@ -41,10 +43,6 @@ Start with picking one project that you like, define the problem, goals and obje
 - Earthquake predictor on sensor data 
 - Predictive Maintenance on sensor data
 
-
-
-
-
 ### ML Projects
 
 - Parkison's Disease Detection
@@ -55,7 +53,6 @@ Start with picking one project that you like, define the problem, goals and obje
 - Crypto Blockchain App
 - Kickstarter Sucess predictor
 - AirBnB price predictor
-
 
 ### NLP Projects
 - Fake News detection - [Read this blog](https://towardsdatascience.com/i-trained-fake-news-detection-ai-with-95-accuracy-and-almost-went-crazy-d10589aa57c)
@@ -90,7 +87,7 @@ Start with picking one project that you like, define the problem, goals and obje
 ### API
 - [GoodReads API](https://www.goodreads.com/api)
 - [CoinMarketCap](https://coinmarketcap.com/api/)
-- {Top 20 APIs Blog](https://towardsdatascience.com/top-20-apis-you-should-know-in-ai-and-machine-learning-8e08515198b3)
+- [Top 20 APIs Blog](https://towardsdatascience.com/top-20-apis-you-should-know-in-ai-and-machine-learning-8e08515198b3)
 
 # Contribute Guide
 
