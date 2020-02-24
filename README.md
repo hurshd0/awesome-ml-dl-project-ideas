@@ -27,6 +27,7 @@ Start with picking one project that you like, define the problem, goals and obje
 - [Human Gait Prediction](https://www.sciencedirect.com/science/article/pii/S0378437119309963)
 - Gesture Recognition 
 - Attendance Tracking System App
+- Urban Sound Classification
 - Detect Heart Disease App
 - Mood / Emotion Detection API
 - Speech Emotion Detection - [Dataset](https://github.com/marcogdepinto/Emotion-Classification-Ravdess)
@@ -43,6 +44,7 @@ Start with picking one project that you like, define the problem, goals and obje
 - Earthquake predictor on sensor data 
 - Predictive Maintenance on sensor data
 - Airbnb 
+
 
 ### ML Projects
 
@@ -85,7 +87,7 @@ Start with picking one project that you like, define the problem, goals and obje
 - [UCSD Recommender Systems Data](https://sites.google.com/eng.ucsd.edu/ucsdbookgraph/home)
 - [HMDB: a large human motion database](https://serre-lab.clps.brown.edu/resource/hmdb-a-large-human-motion-database/)
 - [UCF Sports Action Videos](https://www.crcv.ucf.edu/data/UCF_Sports_Action.php)
-
+- [Vox Celebrity Data](https://www.robots.ox.ac.uk/~vgg/data/voxceleb/)
 
 ### API
 - [GoodReads API](https://www.goodreads.com/api)
