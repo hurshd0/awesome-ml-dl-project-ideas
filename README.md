@@ -1,35 +1,31 @@
-# Motivation 
-## Why?
+# Motivation 💪
+## Why? ❓
 
 Well, for Junior Data Scientists or ML/DL engineers trying to gain foothold in the industry requires to have either previous work experience or solid projects that showcase their skills. So, the goal behind is if you are on self-study route, or going to college or doing bootcamps or want to apply theoretical knowledge from academic papers than Capstone projects are crucial first step.
 
-## How?
+## How? ❓
 
-Start with picking one project that you like, define the problem, goals an objectivies, if you are looking to create web application, than understand your product vision, define clear goals for MVP, and break down requirements for MVP into user stories and release them as bi-weekly Sprints.
+Start with picking one project that you like, define the problem, goals and objectivies, if you are looking to create web application, than understand your product vision, define clear goals for MVP, and break down requirements for MVP into user stories and release them as bi-weekly Sprints.
 
-## Ideas
+# Get Started Now ✌️
 
-- Automatic Image Tagging API, or take it further and create App that automatically organize Photos
+## Choose project ideas from below 👇
+
+### Deep Learning Projeccts
+
+- Automatic Image Tagging API (e.g. [Imagga](https://imagga.com/), or take it further and create App that automatically organize Photos
 - Detecting NSFW Images API
-- Food Classification API
+- Food Image Classification API (See Yelp Dataset)
 - Fashion Apparels Recommender
 - Music Generation (Deep Jazz, Folk tunes, etc..)
 - Detect Diabetic Retinopathy
 - Color B/W Images API
-- Detecting Spam Reviews
 - Gesture Recognition 
 - Attendance Tracking System App
-- Nearest Document Search App
 - Detect Heart Disease App
 - Mood / Emotion Detection API
 - Aerial Cactus Identification API 
 - Ultrasound Nerve Segmentation App
-- Crypto Blockchain App
-- Kickstarter Sucess predictor
-- AirBnB price predictor
-- Sub-reddit predictor
-- Earthquake predictor
-- Text Summarizer
 - Gender Recognition using Voice
 - Celebrity Recognition using Voice
 - Smoking detection from Videos
@@ -37,12 +33,52 @@ Start with picking one project that you like, define the problem, goals an objec
 - Gender + Age detection using Image (Face)
 - Driver Drowsiness Detection
 - Human Activity Recognition with Video Classification
-- Language Translator
-- Audio Dictator 
-- Movie/Anime/Music recommender
-- Customer Segmentation
-- Twitter Sentimental Analysis
+- Notes Dictation App (Transcript audio to text)
+- Earthquake predictor
+
+
+
+
+
+
+### ML Projects
+
+- Oscar Prediction App
+- Gihub Commit Analysis / Activity 
 - Uber Data Analysis
 - Credit Card Fraud Detection
-- Youtube 8M https://research.google.com/youtube8m/ 
-- Yelp Dataset
+- Crypto Blockchain App
+- Kickstarter Sucess predictor
+- AirBnB price predictor
+
+
+### NLP Projects
+- Text Summarizer
+- Nearest Document Search App
+- Sub-reddit predictor
+- Twitter Sentimental Analysis
+- Customer Segmentation
+- Twitter Sentimental Analysis
+- Language Translator
+- Detecting Spam Reviews, Opinion Mining
+- Fine Food Reviews
+- Opinion Mining on Mobile Phone Features
+
+### Recommender Projects
+- Movie/Anime/Music recommender
+- Books Recommender
+
+### Datasets
+- [Youtube 8M](https://research.google.com/youtube8m/) 
+- [Yelp Dataset](https://www.yelp.com/dataset/challenge)
+- [Hacker News](https://console.cloud.google.com/marketplace/details/y-combinator/hacker-news)
+- [Github Activity Data](https://github.blog/2016-06-29-making-open-source-data-more-available/)
+- [Amazon Customer Reviews(https://s3.amazonaws.com/amazon-reviews-pds/readme.html)
+- [Deep Fashion](http://mmlab.ie.cuhk.edu.hk/projects/DeepFashion.html)
+- [MVC](https://mvc-datasets.github.io/MVC/)
+- [Stack Overflow](https://www.kaggle.com/stackoverflow/stackoverflow)
+
+# Contribute Guide
+
+- Submit a PR by creating branch for fixing grammatical errors or you have new ideas to add.
+- For discussion create issues.
