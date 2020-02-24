@@ -13,7 +13,7 @@ Start with picking one project that you like, define the problem, goals and obje
 
 ## Choose project ideas from below 👇
 
-### Deep Learning Projeccts
+### Deep Learning Projects
 
 - Traffic Sign Classification - [Read this tutorial](https://www.pyimagesearch.com/2019/11/04/traffic-sign-classification-with-keras-and-deep-learning/)
 - Solve Image Captcha - [Example 1](https://github.com/JackonYang/captcha-tensorflow),[Example 2](https://github.com/danielpontello/cnn-captcha-solving)
