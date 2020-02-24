@@ -61,7 +61,6 @@ Start with picking one project that you like, define the problem, goals and obje
 - Sub-reddit predictor
 - Twitter Sentimental Analysis
 - Customer Segmentation
-- Twitter Sentimental Analysis
 - Language Translator
 - Detecting Spam Reviews, Opinion Mining
 - Fine Food Reviews
