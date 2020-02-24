@@ -36,12 +36,13 @@ Start with picking one project that you like, define the problem, goals and obje
 - Celebrity Recognition using Voice
 - Smoking detection from Videos
 - Neural Style Transfer
-- Gender + Age detection using Image (Face)
+- Gender + Age detection using Image (Face) - [Face Image Project](https://talhassner.github.io/home/projects/Adience/Adience-data.html)
 - Driver Drowsiness Detection
 - Human Activity Recognition with Video Classification
 - Notes Dictation App (Transcript audio to text)
 - Earthquake predictor on sensor data 
 - Predictive Maintenance on sensor data
+- Airbnb 
 
 ### ML Projects
 
@@ -68,6 +69,9 @@ Start with picking one project that you like, define the problem, goals and obje
 
 ### Recommender Projects
 - Movie/TV Shows/Books/Anime/Music/Video Game/Social Media Friends recommender (Check UCSD data)
+
+### For inspirations 
+- [Google AI Experiments](https://experiments.withgoogle.com/collection/ai)
 
 ### Datasets
 - [Youtube 8M](https://research.google.com/youtube8m/) 
