@@ -43,7 +43,6 @@ Start with picking one project that you like, define the problem, goals and obje
 - Notes Dictation App (Transcript audio to text)
 - Earthquake predictor on sensor data 
 - Predictive Maintenance on sensor data
-- Airbnb 
 
 
 ### ML Projects
@@ -68,9 +67,11 @@ Start with picking one project that you like, define the problem, goals and obje
 - Detecting Spam Reviews, Opinion Mining
 - Fine Food Reviews
 - Opinion Mining on Mobile Phone Features
+- Airbnb/ Hotels / Travelocity Recommender from user reviews 
 
 ### Recommender Projects
 - Movie/TV Shows/Books/Anime/Music/Video Game/Social Media Friends recommender (Check UCSD data)
+
 
 ### For inspirations 
 - [Google AI Experiments](https://experiments.withgoogle.com/collection/ai)
