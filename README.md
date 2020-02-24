@@ -1,7 +1,7 @@
 # Motivation 
 ## Why?
 
-Well, for Junior Data Scientists or ML/DL engineers trying to gain foothold in the industry requires to have either previous work experience or solid projects that showcase their skills. So, the goal behind is if you are on self-study route, or going to college or want to apply theoretical knowledge than Capstone projects are crucial first step.
+Well, for Junior Data Scientists or ML/DL engineers trying to gain foothold in the industry requires to have either previous work experience or solid projects that showcase their skills. So, the goal behind is if you are on self-study route, or going to college or doing bootcamps or want to apply theoretical knowledge from academic papers than Capstone projects are crucial first step.
 
 ## How?
 
