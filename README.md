@@ -27,6 +27,7 @@ Start with picking one project that you like, define the problem, goals and obje
 - Attendance Tracking System App
 - Detect Heart Disease App
 - Mood / Emotion Detection API
+- Speech Emotion Detection - [Dataset](https://github.com/marcogdepinto/Emotion-Classification-Ravdess)
 - Aerial Cactus Identification API 
 - Ultrasound Nerve Segmentation App
 - Gender Recognition using Voice
