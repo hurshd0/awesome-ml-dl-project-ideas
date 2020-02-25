@@ -72,6 +72,10 @@ Start with picking one project that you like, define the problem, goals and obje
 ### Recommender Projects
 - Movie/TV Shows/Books/Anime/Music/Video Game/Social Media Friends recommender (Check UCSD data)
 
+### IoT Projects
+- License Plate Reader w/ Raspberry Pi + Neural Stick 
+- Concussion detection w/ Raspberry Pi 0 
+- 
 
 ### For inspirations 
 - [Google AI Experiments](https://experiments.withgoogle.com/collection/ai)
