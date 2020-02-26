@@ -1,4 +1,4 @@
-# Data Science / Machine Learning / Deep Learning Capstone Project Ideas
+# Awesome 😎 Data Science / Machine Learning / Deep Learning Project Ideas 🤖
 
 ## Motivation 💪
 ### Why? ❓
@@ -13,7 +13,7 @@ Start with picking one project that you like, define the problem, goals and obje
 
 ## Choose project ideas from below 👇
 
-### Deep Learning Projects
+### Deep Learning Projects 🌀
 
 - Traffic Sign Classification - [Read this tutorial](https://www.pyimagesearch.com/2019/11/04/traffic-sign-classification-with-keras-and-deep-learning/)
 - Solve Image Captcha - [Example 1](https://github.com/JackonYang/captcha-tensorflow),[Example 2](https://github.com/danielpontello/cnn-captcha-solving)
@@ -45,7 +45,7 @@ Start with picking one project that you like, define the problem, goals and obje
 - Predictive Maintenance on sensor data
 
 
-### ML Projects
+### ML Projects 🎯
 
 - Parkison's Disease Detection
 - Oscar Prediction App
@@ -56,7 +56,7 @@ Start with picking one project that you like, define the problem, goals and obje
 - Kickstarter Sucess predictor
 - AirBnB price predictor
 
-### NLP Projects
+### NLP Projects 💬
 - Fake News detection - [Read this blog](https://towardsdatascience.com/i-trained-fake-news-detection-ai-with-95-accuracy-and-almost-went-crazy-d10589aa57c)
 - Text Summarizer
 - Nearest Document Search App
@@ -69,10 +69,10 @@ Start with picking one project that you like, define the problem, goals and obje
 - Opinion Mining on Mobile Phone Features
 - Airbnb/ Hotels / Travelocity Recommender from user reviews 
 
-### Recommender Projects
+### Recommender Projects 🍱
 - Movie/TV Shows/Books/Anime/Music/Video Game/Social Media Friends recommender (Check UCSD data)
 
-### IoT Projects
+### IoT Projects 🛸
 - License Plate Reader w/ Raspberry Pi + Neural Stick 
 - Concussion detection w/ Raspberry Pi 0 
 - 
